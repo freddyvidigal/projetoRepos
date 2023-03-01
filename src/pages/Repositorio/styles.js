@@ -76,6 +76,13 @@ export const BackButton = styled.button`
         height: 30px;
     }
 
+    &:hover{
+        opacity: 0.7;
+    }
+
+
+    
+
 
 `;
 
